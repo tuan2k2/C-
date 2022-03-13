@@ -1,0 +1,14 @@
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\bin\Debug\netcoreapp3.1\BaiTapCoBan2.exe
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\bin\Debug\netcoreapp3.1\BaiTapCoBan2.deps.json
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\bin\Debug\netcoreapp3.1\BaiTapCoBan2.runtimeconfig.json
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\bin\Debug\netcoreapp3.1\BaiTapCoBan2.runtimeconfig.dev.json
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\bin\Debug\netcoreapp3.1\BaiTapCoBan2.dll
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\bin\Debug\netcoreapp3.1\BaiTapCoBan2.pdb
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\obj\Debug\netcoreapp3.1\BaiTapCoBan2.csproj.AssemblyReference.cache
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\obj\Debug\netcoreapp3.1\BaiTapCoBan2.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\obj\Debug\netcoreapp3.1\BaiTapCoBan2.AssemblyInfoInputs.cache
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\obj\Debug\netcoreapp3.1\BaiTapCoBan2.AssemblyInfo.cs
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\obj\Debug\netcoreapp3.1\BaiTapCoBan2.csproj.CoreCompileInputs.cache
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\obj\Debug\netcoreapp3.1\BaiTapCoBan2.dll
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\obj\Debug\netcoreapp3.1\BaiTapCoBan2.pdb
+D:\năm 2\C#\BaiTapCoBan2\BaiTapCoBan2\obj\Debug\netcoreapp3.1\BaiTapCoBan2.genruntimeconfig.cache
